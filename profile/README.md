@@ -82,7 +82,7 @@ Cannot find the right installer: search for balsamiq wireframes download from th
 
 ---
 
-![Balsamiq Wireframes workspace showing low-fidelity UI mockups and collaborative screen planning](FOTO)
+![Balsamiq Wireframes workspace showing low-fidelity UI mockups and collaborative screen planning](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/848287/logo-lungo-269d286e-c046-4843-875a-94269059c172.png)
 
 ---
 
